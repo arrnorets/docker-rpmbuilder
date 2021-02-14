@@ -230,7 +230,7 @@ Summary     : A package that provides a configuration of Asgardahost repository
 Description :
 This packages configures Asgardahost RPM repository
 
-$ rpm -qlp /mnt/ext_hdd_data/websites/repository.asgardahost.ru/el7/asgardahost-rpm_repository-2.0-1.el7.noarch.rpm 
+$ rpm -qlp asgardahost-rpm_repository-2.0-1.el7.noarch.rpm 
 /etc/yum.repos.d/asgardahost.repo
 ```
 
